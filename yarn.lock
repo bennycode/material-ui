@@ -1746,13 +1746,13 @@
     write-file-atomic "^2.3.0"
 
 "@material-ui/core@^3.9.3":
-  version "4.0.0-beta.2"
+  version "4.0.0"
   dependencies:
     "@babel/runtime" "^7.2.0"
-    "@material-ui/styles" "^4.0.0-beta.2"
-    "@material-ui/system" "^4.0.0-beta.2"
-    "@material-ui/types" "^4.0.0-beta.2"
-    "@material-ui/utils" "^4.0.0-beta.1"
+    "@material-ui/styles" "^4.0.0"
+    "@material-ui/system" "^4.0.0"
+    "@material-ui/types" "^4.0.0"
+    "@material-ui/utils" "^4.0.0"
     "@types/react-transition-group" "^2.0.16"
     clsx "^1.0.2"
     convert-css-length "^1.0.2"
@@ -3166,8 +3166,7 @@ babel-plugin-transform-react-remove-prop-types@^0.4.21:
   integrity sha512-eqj0hVcJUR57/Ug2zE1Yswsw4LhuqqHhD+8v120T1cl3kjg76QwtyBrdIk4WVwK+lAhBJVYCd/v+4nc4y+8JsA==
 
 "babel-plugin-unwrap-createStyles@link:packages/babel-plugin-unwrap-createStyles":
-  version "0.0.0"
-  uid ""
+  version "4.1.0"
 
 babel-runtime@^6.0.0, babel-runtime@^6.22.0, babel-runtime@^6.26.0:
   version "6.26.0"
@@ -13662,9 +13661,9 @@ typescript@next:
   integrity sha512-aEfjOBzSPfd/sxQwEz6y+xl8+bYmGb2zl+sGIoJUNaKV+xk/Cf4bWtTlHcP/sTBRDQoE4iCT2gZZBmxfe3hWyg==
 
 ua-parser-js@^0.7.18:
-  version "0.7.19"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.19.tgz#94151be4c0a7fb1d001af7022fdaca4642659e4b"
-  integrity sha512-T3PVJ6uz8i0HzPxOF9SWzWAlfN/DavlpQqepn22xgve/5QecC+XMCAtmUNnY7C9StehaV6exjUCI801lOI7QlQ==
+  version "0.7.35"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.35.tgz#8bda4827be4f0b1dda91699a29499575a1f1d307"
+  integrity sha512-veRf7dawaj9xaWEu9HoTVn5Pggtc/qj+kqTOFvNiN1l0YdxwC1kvel57UCjThjGa3BHBihE8/UJAHI+uQHmd/g==
 
 uglify-js@^3.1.4:
   version "3.5.10"
